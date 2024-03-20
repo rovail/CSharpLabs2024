@@ -1,0 +1,15 @@
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\bin\Debug\net8.0\Pr3.exe
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\bin\Debug\net8.0\Pr3.deps.json
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\bin\Debug\net8.0\Pr3.runtimeconfig.json
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\bin\Debug\net8.0\Pr3.dll
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\bin\Debug\net8.0\Pr3.pdb
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\Pr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\Pr3.AssemblyInfoInputs.cache
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\Pr3.AssemblyInfo.cs
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\Pr3.csproj.CoreCompileInputs.cache
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\Pr3.sourcelink.json
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\Pr3.dll
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\refint\Pr3.dll
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\Pr3.pdb
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\Pr3.genruntimeconfig.cache
+C:\Users\kpops\source\repos\CSharpLabs2024\Pr3\obj\Debug\net8.0\ref\Pr3.dll
