@@ -1,0 +1,15 @@
+C:\Users\stud_centr05\source\repos\GameMagic\obj\Debug\net5.0\GameMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud_centr05\source\repos\GameMagic\obj\Debug\net5.0\GameMagic.AssemblyInfoInputs.cache
+C:\Users\stud_centr05\source\repos\GameMagic\obj\Debug\net5.0\GameMagic.AssemblyInfo.cs
+C:\Users\stud_centr05\source\repos\GameMagic\obj\Debug\net5.0\GameMagic.csproj.CoreCompileInputs.cache
+C:\Users\stud_centr05\source\repos\GameMagic\bin\Debug\net5.0\GameMagic.exe
+C:\Users\stud_centr05\source\repos\GameMagic\bin\Debug\net5.0\GameMagic.deps.json
+C:\Users\stud_centr05\source\repos\GameMagic\bin\Debug\net5.0\GameMagic.runtimeconfig.json
+C:\Users\stud_centr05\source\repos\GameMagic\bin\Debug\net5.0\GameMagic.runtimeconfig.dev.json
+C:\Users\stud_centr05\source\repos\GameMagic\bin\Debug\net5.0\GameMagic.dll
+C:\Users\stud_centr05\source\repos\GameMagic\bin\Debug\net5.0\ref\GameMagic.dll
+C:\Users\stud_centr05\source\repos\GameMagic\bin\Debug\net5.0\GameMagic.pdb
+C:\Users\stud_centr05\source\repos\GameMagic\obj\Debug\net5.0\GameMagic.dll
+C:\Users\stud_centr05\source\repos\GameMagic\obj\Debug\net5.0\ref\GameMagic.dll
+C:\Users\stud_centr05\source\repos\GameMagic\obj\Debug\net5.0\GameMagic.pdb
+C:\Users\stud_centr05\source\repos\GameMagic\obj\Debug\net5.0\GameMagic.genruntimeconfig.cache

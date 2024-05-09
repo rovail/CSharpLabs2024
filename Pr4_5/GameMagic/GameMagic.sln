@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mage", "..\Mage\Mage.csproj", "{7248FBB7-A3CE-4875-97F7-68E37CC373AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7248FBB7-A3CE-4875-97F7-68E37CC373AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7248FBB7-A3CE-4875-97F7-68E37CC373AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7248FBB7-A3CE-4875-97F7-68E37CC373AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7248FBB7-A3CE-4875-97F7-68E37CC373AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {243F2EF5-8BDE-44BC-8ADC-F728A8EF0DC1}
+	EndGlobalSection
+EndGlobal
